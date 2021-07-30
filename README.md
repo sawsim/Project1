@@ -7,6 +7,7 @@ number = number + 2  #11
 number += 2          #13 
 print(number) 
 
+
 print (abs(-5)) #5
 print(pow(4,2))  #4^2 = 16
 print(max(5, 12)) # 12
